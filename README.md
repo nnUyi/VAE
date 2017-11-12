@@ -1,5 +1,6 @@
 # VAE
-  - A implement of VAE in paper "Auto-Encoding Variational Bayes". In this repo, we assume that our data is a continus type, so Gaussian Distribution is taken and applied in this repo. If you have a binary data type, Bernoulli Distribution is a good idea, then what you need to change is to use crossy entrophy in marginal loss instead of reconstruction loss. More details can be seen in this [vae-tutorial](https://home.zhaw.ch/~dueo/bbs/files/vae.pdf)
+  
+  A implement of VAE in paper "Auto-Encoding Variational Bayes". In this repo, we assume that our data is a continus type, so Gaussian Distribution is taken and applied in this repo. If you have a binary data type, Bernoulli Distribution is a good idea, then what you need to change is to use crossy entrophy in marginal loss instead of reconstruction loss. More details can be seen in this [vae-tutorial](https://home.zhaw.ch/~dueo/bbs/files/vae.pdf)
 
 # Requirement
   - tensorflow 1.3.0
@@ -30,7 +31,9 @@
 
 # Experimental Result
    <p align='center'><img src='train_29_0900.png'></p>
-  - This repo is trained with celebA, after 30 epoches, we can clear see the result above.
+  
+  This repo is trained with celebA, after 30 epoches, we can clear see the result above.
+  
 # Contacts
 
   Email:computerscienceyyz@163.com, Thank you for contacting if you find something wrong or if you have some problems!!!

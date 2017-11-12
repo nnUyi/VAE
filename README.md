@@ -23,7 +23,7 @@
       
   (3)training
   
-    $ python main.py
+    $ python main.py --is_training=True
   
   (4)testing
     

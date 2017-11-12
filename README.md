@@ -28,6 +28,9 @@
     
    - Anyway, in this repo, testing processing is taken during training, It samples the training results to the sample(named sample) directory, and stores session in the checkpoint(named checkpoint) directory.
 
+# Experimental Result
+   <p align='center'><img src='train_29_0900.png'></p>
+
 # Contacts
 
   Email:computerscienceyyz@163.com, Thank you for contacting if you find something wrong or if you have some problems!!!
